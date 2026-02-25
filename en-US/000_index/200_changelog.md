@@ -2,7 +2,7 @@
 
 # Changelog{id=changelog}
 
-This archives the various changes the list team has made to the rules and guidelines of the Demon List. Our main notification system for new changes is in our [Discord server](https://discord.gg/M7bDDQf), so if you are not a member there, it's a good idea to check this section occasionally for new updates.
+This archives the various changes the list team has made to the rules and guidelines of the Demon List. Our main notification system for new changes is in our [Discord server](https://discord.gg/demonlist), so if you are not a member there, it's a good idea to check this section occasionally for new updates.
 
 Changes listed here are ordered from most recent to least recent. **Current version: v3.0**
 
@@ -10,13 +10,13 @@ Changes listed here are ordered from most recent to least recent. **Current vers
 
 - All records that contain invalid raw footage (YouTube links, Google Drive private files, compressed files and others) **will be eliminated**. Following this, the user who submitted the record will be **contacted and expected to resubmit** with valid raw footage that meets the requirements.
 
-- Due to 2.2 adding a custom particle editor for creators to use as decoration within their levels,  we have decided to **ban the use of the "No Particles" hack in 2.2 levels**, as this could potentially act as a visual nerf. However, keep in mind that the hack **will still be available for 2.1 levels**. From Megahack V9 onwards, **the banned hack is labeled as "No Particles Classic"**.
+- Due to 2.2 adding a custom particle editor for creators to use as decoration within their levels, we have decided to **ban the use of the "No Particles" hack in 2.2 levels**, as this could potentially act as a visual nerf. However, keep in mind that the hack **will still be available for 2.1 levels**. From Megahack V9 onwards, **the banned hack is labeled as "No Particles Classic"**.
 
-- **Submissions of levels with altered text or other non-obstructive decoration are not allowed anymore**. That being said, some changes might be given exceptions if they are minuscule enough, **but only if a list member gives their approval**.
+- **Submissions of levels with altered text or other non-obstructive decoration are no longer allowed**. That being said, some changes might be given exceptions if they are minuscule enough, **but only if a list member gives their approval**.
 
-- **Livestreams will no longer be accepted as valid form of raw footage for record submissions**. Keep in mind that unedited recordings captured through recording software (e.g., OBS, Shadowplay / NVIDIA APP, AMD Relive), and liveplays **will still be accepted on Pointercrate**.
+- **Live streams will no longer be accepted as valid form of raw footage for record submissions**. Keep in mind that unedited recordings captured through recording software (e.g., OBS, Shadowplay / NVIDIA APP, AMD Relive), and liveplays **are still acceptable**.
 
-- **Legacy list completions will only be held to proof guidelines at the time of completion**. However, in this context **clicks will always be mandatory**.
+- **Legacy list completions will only be held to proof guidelines at the time of completion**. However, in this context, **clicks will always be mandatory**.
 
 - **The removal of CBF blockers from levels is now allowed**. However, **it is disallowed to modify parts that are naturally harder with CBF**.
 
