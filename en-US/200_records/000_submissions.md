@@ -16,6 +16,6 @@ Records are **not** accepted for levels that have fallen into the legacy list.
 
 A legacy record may be considered for addition if proof exists that the record was achieved before the level entered the legacy list. However, it is not possible to submit legacy records using the submission form, so players may send these to the list team through [our Discord server](https://discord.gg/M7bDDQf). 
 
-***All submitted records will be considered under modern submission guidelines***. As such, players should note that records that were eligible for the list at the time of completion *may not be eligible under today's standards*.
+***All submitted records will only be held to proof guidelines at the time of completion***. However, in this context, **clicks will always be mandatory**.
 
 </div>
