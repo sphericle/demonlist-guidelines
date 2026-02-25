@@ -20,7 +20,7 @@ Changes listed here are ordered from most recent to least recent. **Current vers
 
 - **The removal of CBF blockers from levels is now allowed**. However, **it is disallowed to modify parts that are naturally harder with CBF**.
 
-- In order to avoid some records taking some time in being reviewed due to an excessive file size (over 10GB), **it is highly recommended to use Replay Buffer in recording software such as OBS Studio**. A tutorial that shows how to access this feature can be found [here].
+- In order to avoid some records taking some time in being reviewed due to an excessive file size (over 10GB), **it is highly recommended to use Replay Buffer in recording software such as OBS Studio**. A tutorial that shows how to access this feature can be found [here](https://www.youtube.com/watch?v=zYWq8sT3H_k).
 
 ## Changes from v2.3 to v2.4 (10/16/2024){id=changelog-10162024}
 
